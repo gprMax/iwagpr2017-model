@@ -4,7 +4,7 @@ GPR Imaging Challenge
 The Rationale
 =============
 
-The `9th International Workshop on Advanced Ground Penetrating Radar (IWAGPR 2017) <http://www.iwagpr2017.org>`_ is being hosted by `the School of Engineering <http://www.eng.ed.ac.uk>`_ at `the University of Edinburgh <http://www.ed.ac.uk>`_ - **the home of the GPR simulation software `gprMax <http://www.gprmax.com>`_ ** We have therefore decided to design what we believe to be a realistic 3D GPR model which we think offers a challenge for testing GPR processing, imaging, and inversion algorithms.
+The `9th International Workshop on Advanced Ground Penetrating Radar (IWAGPR 2017) <http://www.iwagpr2017.org>`_ is being hosted by `the School of Engineering <http://www.eng.ed.ac.uk>`_ at `the University of Edinburgh <http://www.ed.ac.uk>`_ - the home of the GPR simulation software `gprMax <http://www.gprmax.com>`_. We have therefore decided to design what we believe to be a realistic 3D GPR model which we think offers a challenge for testing GPR processing, imaging, and inversion algorithms.
 
 The idea of using a numerical model to test imaging, inversion, and processing algorithms is not a new. It is well established in seismic modelling with, for example, the `Marmousi model <http://dx.doi.org/10.1190/1.1437051>`_. However, to our knowledge, no such detailed and realistic 3D model exists for GPR. The use of a realistic model for testing GPR algorithms can offer several advantages:
 * algorithms can be tested in a much more robust manner than when using simplistic and clinical models that do not effectively represent the real complex environments and targets that are encountered with GPR;
@@ -15,7 +15,8 @@ Before the planned publication of the detailed construction and composition of t
 The challenge
 =============
 
-The model is a three-dimensional, near-surface example of a fictional but realistic landmine detection environment. There are several targets in the surveyed area that need to be: 
+The model is a three-dimensional, near-surface example of a fictional but realistic landmine detection environment. There are several targets in the surveyed area that need to be:
+
 * detected
 * precisely located
 * identified
