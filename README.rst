@@ -11,7 +11,7 @@ The idea of using a numerical model to test imaging, inversion, and processing a
 * algorithms can be tested in a much more robust manner than when using simplistic and clinical models that do not effectively represent the real complex environments and targets that are encountered with GPR;
 * there is accurate knowledge of the composition of the targets, their precise location, and the exact makeup of the hosting media. Such detailed knowledge is not possible with experimental or field testing.
 
-Before the planned publication of the detailed construction and composition of this model (to be used as needed by the GPR research community) we would like to offer the modelled data as an imaging and interpretation challenge to GPR researchers that would like to attempt to process them and report their findings during IWAGPR 2017.
+Before releasing information on the detailed construction and composition of this model (to be used by the GPR research community) we would like to offer the modelled data as an imaging and interpretation challenge to GPR researchers. We have scheduled a session in the IWAGPR2017 conference programme, in which we hope some results can be presented.
 
 The challenge
 =============
