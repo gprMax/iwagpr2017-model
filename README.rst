@@ -1,7 +1,7 @@
 GPR Imaging Challenge
 ***********************
 
-The Rationale
+The rationale
 =============
 
 The `9th International Workshop on Advanced Ground Penetrating Radar (IWAGPR 2017) <http://www.iwagpr2017.org>`_ is being hosted by `the School of Engineering <http://www.eng.ed.ac.uk>`_ at `the University of Edinburgh <http://www.ed.ac.uk>`_ - the home of the GPR simulation software `gprMax <http://www.gprmax.com>`_. We have therefore decided to design what we believe to be a realistic 3D GPR model which we think offers a challenge for testing GPR processing, imaging, and inversion algorithms.
