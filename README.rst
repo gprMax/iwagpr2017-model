@@ -27,3 +27,13 @@ The processes employed to achieve the above objectives and to provide a detailed
 Full details of the modelled data are provided in the briefing document. Information and data are available as if a real survey had been undertaken instead. The data is available in HDF5 format, which is the standard output from gprMax. Python tools that are part of the gprMax package can be used to load and plot the data. We have also included a script to allow the data to be easily imported into MATLAB if desired.
 
 We look forward to people taking up this challenge and submitting their interpretations to be presented at IWAGPR 2017. As with all challenges there will be a prize for the best answer judged by a panel of GPR experts.
+
+License and usage
+=================
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit `http://creativecommons.org/licenses/by-nc-sa/3.0/ <http://creativecommons.org/licenses/by-nc-sa/3.0/>`_ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Under the terms of the license we would be grateful if you use the dataset you would cite the following DOI:
+
+.. image:: https://zenodo.org/badge/90147136.svg
+   :target: https://zenodo.org/badge/latestdoi/90147136
